@@ -40,6 +40,8 @@ what are the differences?
 
 take a look at `math.s` file as well.
 
+where are your arguments in case of x86_64? (whispering - internet, or notes of our class can help you).
+
 take a look at the `makefile` too.
 
 as you've guessed (hopefully) if you type `make` the program will be compiled.
